@@ -58,7 +58,7 @@ class Quiz {
         // }
 
         if (correctAns === allContestants[plr].answer){
-           fill("Green")
+           fill("green")
          }
          else{
            fill("red");
